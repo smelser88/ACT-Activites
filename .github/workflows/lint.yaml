@@ -2,7 +2,7 @@ name: Format Code with Black
 
 on:
   push:
-    branches-ignore:
+    branches:
       - 'main'
   pull_request:
     branches: '**'
