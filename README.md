@@ -7,4 +7,4 @@ This vulnerability occurs when some inputs an SQL query into the input data on a
 #### Resources
 
 * [Keeper Security](https://www.keepersecurity.com/blog/2023/12/27/common-types-of-cybersecurity-vulnerabilities/)
-* [Ethical Hacking Lessons](https://www.hacksplaining.com/lessons)
+* [Hacking Vulneabilities](https://www.hacksplaining.com/lessons)
