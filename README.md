@@ -8,3 +8,4 @@ This vulnerability occurs when some inputs an SQL query into the input data on a
 
 * [Keeper Security](https://www.keepersecurity.com/blog/2023/12/27/common-types-of-cybersecurity-vulnerabilities/)
 * [Hacking Vulneabilities](https://www.hacksplaining.com/lessons)
+* [Portswigger Tutorials](https://portswigger.net/web-security/all-topics)
