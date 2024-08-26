@@ -1,8 +1,6 @@
 # Basic-Vulnerabilities
 In this section, we will focus on some basic vulnerabilities and build projects to learn how to protect ourselves against them
 
-## Sql Injections
-This vulnerability occurs when some inputs an SQL query into the input data on a site
 
 #### Resources
 
