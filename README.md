@@ -43,6 +43,7 @@ touch md5.txt
 nano md5.txt
 ```
 3.) In this file you will input a hash and then press Ctrl+s and Crtl+x
+
 4.) To run hashcat use this, the burchPasswordWordList.txt is the file generated from CUPP
 ```sh
 hashcat -m 0 -a 0 md5.txt burchPasswordWordlist.txt
